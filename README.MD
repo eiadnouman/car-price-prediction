@@ -71,7 +71,7 @@ The final XGBoost model achieved strong generalization performance on the test s
 ## 📦 Dataset Access
 The dataset used in this project is relatively large, so it is hosted externally.
 
-🔗 **Google Drive Link
+🔗 *Google Drive Link*
 https://drive.google.com/uc?export=download&id=1q33u6GkHghQUHVxkyaVALw3_pDCDDv45
 
 After downloading, place the dataset in the same directory as the notebook before running it.
@@ -79,4 +79,4 @@ After downloading, place the dataset in the same directory as the notebook befor
 ---
 
 ## ✍️ Author
-Eهad Nouman
+Eiad Nouman
